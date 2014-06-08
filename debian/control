@@ -1,0 +1,11 @@
+Source: pacemaker-sbd-watchdog
+Section: admin
+Priority: optional
+Maintainer: Damian Lukowski <damian.lukowski@credativ.de>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.9.5
+
+Package: pacemaker-sbd-watchdog
+Architecture: all
+Depends: ${misc:Depends} pacemaker
+Description: Provides an initscript for pacemaker's sbd watchdog

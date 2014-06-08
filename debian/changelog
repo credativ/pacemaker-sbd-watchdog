@@ -1,0 +1,5 @@
+pacemaker-sbd-watchdog (1.0.1) unstable; urgency=low
+
+  * Initial release.
+
+ -- Damian Lukowski <damian.lukowski@credativ.de>  Fri, 08 Jun 2014 18:02:28 +0200
