@@ -1,3 +1,9 @@
+pacemaker-sbd-watchdog (1.0.2) unstable; urgency=medium
+
+  * Fix return code for stop action (should be zero if sbd is stopped)
+
+ -- Arnd Hannemann <arnd.hannemann@credativ.de>  Wed, 07 Jan 2015 09:42:08 +0100
+
 pacemaker-sbd-watchdog (1.0.1) unstable; urgency=low
 
   * Initial release.
